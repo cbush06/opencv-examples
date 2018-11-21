@@ -1,0 +1,3 @@
+/home/cbush/workspaces/opencv_examples/build/CMakeFiles/rebuild_cache.dir
+/home/cbush/workspaces/opencv_examples/build/CMakeFiles/opencv_example.dir
+/home/cbush/workspaces/opencv_examples/build/CMakeFiles/edit_cache.dir
